@@ -11,3 +11,7 @@ Git hesabıma email eklemediğim için bir kaç aydır yaptığım commitler ekl
 Eğer bu sorunu yaşayan varsa -> https://github.com/orgs/community/discussions/14523    
 Teşekkürler 
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=YEBay1&show_icons=true&theme=radical)
+
+
